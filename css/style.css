@@ -142,7 +142,7 @@ header {
 .landing {
 
     height: 100vh;
-    background-image: url(/images/landing.jpg);
+    background-image: url(images/landing.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
